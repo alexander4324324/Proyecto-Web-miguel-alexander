@@ -137,3 +137,11 @@ header{
     justify-content: space-between;
     line-height: 80px;
 }
+.navbar{
+    margin: auto;
+
+}
+
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
